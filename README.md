@@ -7,7 +7,7 @@
 <p align="center"><a href="https://github.com/JasonEtco/activity-box"><img alt="GitHub Actions status" src="https://github.com/JasonEtco/activity-box/workflows/Node%20CI/badge.svg"> <a href="https://codecov.io/gh/JasonEtco/activity-box/"><img src="https://badgen.now.sh/codecov/c/github/JasonEtco/activity-box" alt="Codecov"></a></p>
 
 ---
-
+ 
 ## Setup
 
 **activity-box** is a GitHub Action that is designed to work using the [`schedule`](https://developer.github.com/actions/managing-workflows/creating-and-cancelling-a-workflow/#scheduling-a-workflow) event.
